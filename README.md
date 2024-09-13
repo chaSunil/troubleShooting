@@ -1,5 +1,5 @@
 # troubleShooting
-작업을 진행하며, 문제가 생겨서 정리해놓은 트러블 슈팅을 모아놓는 공간  
+작업을 진행하며, 문제가 생겨서 정리해놓은 트러블 슈팅을 모아놓는 공간  <br/>
 ![혼돈의주문서](https://github.com/user-attachments/assets/ea64eca0-817e-4f52-a30c-908d3a08a446)
 
 ## 작성시 참고
