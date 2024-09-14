@@ -5,11 +5,11 @@
 
 ## 작성시 참고
 [마크업 언어 사용법 정리](https://github.com/chaSunil/markUpLanguage/blob/main/README.md)
-<br/>
+<br/><br/>
 
 ## troubleShooting
 [Trouble Shooting (0) 동시성 주문](https://github.com/chaSunil/troubleShooting/issues/1)
-<br/>
+<br/><br/>
 
 ## 오류해결
 [(1) Error Resolution (ERROR:ORA-01034: ORACLE not availableORA-27101: shared memory realm does not exist)](https://chainterior.tistory.com/237)
