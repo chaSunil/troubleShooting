@@ -12,3 +12,18 @@
 <br/>
 
 ## 오류해결
+[(1) Error Resolution (ERROR:ORA-01034: ORACLE not availableORA-27101: shared memory realm does not exist)](https://chainterior.tistory.com/237)
+
+[(2) Error Resolution (Pulling 1 repository Checkout conflict with files)](https://chainterior.tistory.com/277)
+
+[(3) Error Resolution (Mybatis mapper 오류)](https://www.notion.so/Spring-42682aa5b10e466a9b732564b4ed0e4a?pvs=4#64c94b3d1bea4641828ba0d758c49ce1)
+
+> mapped statements collection does not contain value for orders.insertorders
+servlet.service() for servlet [dispatcherservlet] in context with path [] threw exception [request processing failed: org.mybatis.spring.mybatissystemexception] with root cause
+.bindingexception: invalid bound statement (not found): com.githrd.figurium.order.dao.ordermapper.insertorders] with root cause
+
+[(4) Error Resolution (Gradle 매개변수 충돌)](https://www.notion.so/Spring-42682aa5b10e466a9b732564b4ed0e4a?pvs=4#24c43b5f465f40f6a8f95cc8de345dfb)
+
+> : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: Name for argument of type [int] not specified, and parameter name information not available via reflection. Ensure that the compiler uses the '-parameters' flag.] with root cause
+java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
+No qualifying bean of type 'com.example.demo.MemberRepository' available: expected single matching bean but found 2: memoryMemberRepository,memberRepository
