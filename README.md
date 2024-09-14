@@ -5,6 +5,8 @@
 
 ## 작성시 참고
 [마크업 언어 사용법 정리](https://github.com/chaSunil/markUpLanguage/blob/main/README.md)
+
+[트러블 슈팅 양식](https://github.com/chaSunil/troubleShooting/issues/3)
 <br/><br/>
 
 ## troubleShooting
