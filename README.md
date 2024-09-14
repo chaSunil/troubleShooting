@@ -9,3 +9,6 @@
 
 ## troubleShooting
 [Trouble Shooting (0) 동시성 주문](https://github.com/chaSunil/troubleShooting/issues/1)
+<br/>
+
+## 오류해결
