@@ -30,3 +30,8 @@ servlet.service() for servlet [dispatcherservlet] in context with path [] threw 
 > : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: Name for argument of type [int] not specified, and parameter name information not available via reflection. Ensure that the compiler uses the '-parameters' flag.] with root cause
 java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
 No qualifying bean of type 'com.example.demo.MemberRepository' available: expected single matching bean but found 2: memoryMemberRepository,memberRepository
+
+> [(5) Error Resolution (Spring Boot Controller 미인식 문제)](https://github.com/chaSunil/troubleShooting/issues/4)
+
+> This application has no explicit mapping for /error, so you are seeing this as a fallback.
+There was an unexpected error (type=Not Found, status=404)
