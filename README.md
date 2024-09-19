@@ -17,6 +17,10 @@
 [Trouble Shooting (1) Run jasypt 복호화 환경변수 미지정 에러](https://github.com/chaSunil/troubleShooting/issues/2)
 <br/><br/>
 
+[Trouble Shooting (2) https 환경에서 서버 비동기 처리 요청 에러](https://github.com/chaSunil/troubleShooting/issues/2)
+<br/><br/>
+
+
 ## 오류해결
 [(1) Error Resolution (ERROR:ORA-01034: ORACLE not availableORA-27101: shared memory realm does not exist)](https://chainterior.tistory.com/237)
 
