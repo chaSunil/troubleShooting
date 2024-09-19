@@ -34,4 +34,8 @@ No qualifying bean of type 'com.example.demo.MemberRepository' available: expect
 [(5) Error Resolution (Spring Boot Controller 미인식 문제)](https://github.com/chaSunil/troubleShooting/issues/4)
 
 > This application has no explicit mapping for /error, so you are seeing this as a fallback.
-There was an unexpected error (type=Not Found, status=404)
+
+[(6) Error Resolution (Spring Boot File Upload 용량 문제)](https://github.com/chaSunil/troubleShooting/issues/4)
+
+> 2024-09-19T10:34:56.239+09:00 ERROR 139072 --- [figurium] [io-8080-exec-10] c.g.f.e.MyCustomExceptionResolver: 오류 발생: 서버 내부 오류가 발생했습니다. - 요청 URL: /sendReview.do
+org.springframework.web.multipart.MaxUploadSizeExceededException: Maximum upload size exceeded
