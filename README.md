@@ -1,4 +1,4 @@
-# troubleShooting
+![image](https://github.com/user-attachments/assets/39fc3e2e-01f7-4c07-a4ba-a329e647ea61)# troubleShooting
 작업을 진행하며, 문제가 생겨서 정리해놓은 트러블 슈팅을 모아놓는 공간  
 > 99/0 99%의 완벽한 물에 1%의 불순물을 섞으면, 물이 더러워진다.
 <br/>
@@ -47,3 +47,5 @@ No qualifying bean of type 'com.example.demo.MemberRepository' available: expect
 
 > 2024-09-19T10:34:56.239+09:00 ERROR 139072 --- [figurium] [io-8080-exec-10] c.g.f.e.MyCustomExceptionResolver: 오류 발생: 서버 내부 오류가 발생했습니다. - 요청 URL: /sendReview.do
 org.springframework.web.multipart.MaxUploadSizeExceededException: Maximum upload size exceeded
+
+> 413 request entity too large
