@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39fc3e2e-01f7-4c07-a4ba-a329e647ea61)# troubleShooting
+# troubleShooting
 작업을 진행하며, 문제가 생겨서 정리해놓은 트러블 슈팅을 모아놓는 공간  
 > 99/0 99%의 완벽한 물에 1%의 불순물을 섞으면, 물이 더러워진다.
 <br/>
@@ -19,6 +19,9 @@
 <br/><br/>
 
 [Trouble Shooting (2) https 환경에서 서버 비동기 처리 요청 에러](https://github.com/chaSunil/troubleShooting/issues/6)
+<br/><br/>
+
+[Trouble Shooting (3) 아임포트 모바일 결제 환경 오류](https://github.com/chaSunil/troubleShooting/issues/7)
 <br/><br/>
 
 
